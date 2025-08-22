@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a 3rd-year Computer Science student at the University of Waterloo, graduating in Spring 2027 — welcome to my GitHub Profile! Here you'll find a list of the projects I've either worked on in the past or am currently updating.
+I'm a 4th-year Computer Science student at the University of Waterloo, graduating in Spring 2027 — welcome to my GitHub Profile! Here you'll find a list of the projects I've either worked on in the past or am currently updating.
 
 Be sure to check out my [Personal Website](https://jirokakpovbia.ca) for more about me, my experiences, and anything else you're curious about!
 
