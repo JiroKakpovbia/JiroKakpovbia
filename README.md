@@ -1,7 +1,7 @@
 <h1>Hey! My name is Jiro Kakpovbia 👋</h1>
 <h3>I'm a passionate fourth-year Computer Science student at the University of Waterloo</h3>
 
-👨‍💻 My resume, experience, and all of my projects are also available on [my personal website](jirokakpovbia.ca)
+👨‍💻 My resume, experience, and all of my projects are also available on [my personal website](https://jirokakpovbia.ca)
 
 📫 You can reach me at **kakpovbia.jiro@gmail.com**
 
